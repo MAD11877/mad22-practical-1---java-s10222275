@@ -25,7 +25,7 @@ public class Question5
      *     2
      * Hint: Use a loop to get input. Use another 2 loops to find the mode
      */
-    System.out.println("Enter quantity of numbers: "); 
+  
 	    Scanner in = new Scanner(System.in);
 	    int num = in.nextInt();
 	    List<Integer> l1 = new ArrayList<Integer>();//import list
