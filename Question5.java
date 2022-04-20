@@ -29,9 +29,9 @@ public class Question5
 	    Scanner in = new Scanner(System.in);
 	    int num = in.nextInt();
 	    List<Integer> l1 = new ArrayList<Integer>();//import list
-	    List<Integer> l2 = new ArrayList<Integer>();//import list
+	   
 	    List<Integer> l3 = new ArrayList<Integer>();//import list
-	    l2=l1;
+	    
 
 	    for (int i = 0;i<num;i++)
 	      {
